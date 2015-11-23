@@ -1,4 +1,6 @@
-# Maslow2
+This is a simple project I did in the Coding Dojo bootcamp to learn the layered routes using Ember Cli. The goal of the project is to build a template for each of the connected-layers in Maslow's Hierarchy of Needs to reach the highest level - self-actualization. 
+
+
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
