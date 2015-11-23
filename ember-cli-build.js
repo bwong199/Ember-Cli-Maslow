@@ -3,7 +3,9 @@ var EmberApp = require('ember-cli/lib/broccoli/ember-app');
 
 module.exports = function(defaults) {
   var app = new EmberApp(defaults, {
-    // Add options here
+    app.import('bower_components/jquery/dist/jquery.min.js');
+    app.import('bower_components/materialize/dist/js/materialize.min.js');
+    app.import('bower_components/materialize/dist/css/materialize.min.css');
   });
 
   // Use `app.import` to add additional libraries to the generated
